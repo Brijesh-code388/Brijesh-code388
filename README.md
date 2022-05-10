@@ -35,7 +35,7 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
 <h3 align="left">What I use:</h3>
 <p align="left"> 
 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+
 <!-- <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  -->
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -55,5 +55,6 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
 <a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/> </a> 
 <a href="https://typegraphql.com/" target="_blank"> <img src="https://typegraphql.com/img/logo.png" alt="typegraphql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="mongodb" width="75" height="40"/> </a> 
+  <a href="https://developer.android.com" target="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://www.pngkit.com/png/full/222-2224799_react-native-development-react-native-logo-png.png" alt="react native" width="70" height="40"/> </a> 
 </p>
