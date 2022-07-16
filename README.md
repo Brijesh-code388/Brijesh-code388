@@ -25,7 +25,7 @@ About Me:
 In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Brijesh-code388&label=Profile%20views&color=0e75b6&style=plastic" alt="Krishnan Navadia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Brijesh-code388&label=Profile%20views&color=0e75b6&style=plastic" alt="Brijesh Kachhadiya" /> </p>
 
 
 - 📫 You can reach me on 
